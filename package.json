@@ -1,0 +1,25 @@
+{
+  "name": "now-led",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardobarrosbrasil/Now-LED.git"
+  },
+  "author": "Leonardo Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardobarrosbrasil/Now-LED/issues"
+  },
+  "homepage": "https://github.com/leonardobarrosbrasil/Now-LED#readme",
+  "dependencies": {
+    "active-windows": "",
+    "express": "^4.17.1",
+    "magic-home": "^2.6.1",
+    "magic-hue-controller": "^1.0.1"
+  }
+}
